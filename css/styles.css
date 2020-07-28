@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+hr{
+    height:2px;
+    color:gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 0.4em;
+    width: 10%;
+}
+p{
+    width: 50%;
+}
+h1{
+      color: #00a1ab;
+  }
+h2{
+    color: #00a1ab;
+    text-decoration: underline;
+}
