@@ -57,8 +57,8 @@ h2:hover {
  img:hover{
      border: 1px solid #00a1ab;
  }
-button {
-
+div {
+width: 100%;
 }
 
 /***********************************ID Selectors******************************************/
