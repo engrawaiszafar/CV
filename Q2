@@ -1,9 +1,197 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T21:47:33.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.9" etag="J1swG6tNs-fttaEkH2c-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-14T22:58:47.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GsjGHpu8aqav77KP4knO" version="22.1.9" type="github">
   <diagram name="Page-1" id="Q7d-XtVrz36ci9EU7UPr">
-    <mxGraphModel>
+    <mxGraphModel dx="1366" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pNyY80XMkmndgcX3XTr4-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-4" target="pNyY80XMkmndgcX3XTr4-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-4" target="pNyY80XMkmndgcX3XTr4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-4" value="&lt;b&gt;Top-Claim C1:&lt;/b&gt;&lt;br&gt;Identity Management software (IMS) is highly Resilient against skilled attacks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="263" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pNyY80XMkmndgcX3XTr4-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="395.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="395.5" as="sourcePoint" />
+            <mxPoint x="1190" y="462.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pNyY80XMkmndgcX3XTr4-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="395.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pNyY80XMkmndgcX3XTr4-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="395.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-37" value="&lt;h4 style=&quot;border-color: var(--border-color);&quot;&gt;Inference Rule IR1:&lt;/h4&gt;&lt;h4 style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt; If IMS uses strong authentication it means data is secure&lt;/span&gt;&lt;/h4&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#A9C4EB;size=0.05555555555555555;" vertex="1" parent="1">
+          <mxGeometry x="282.25" y="268" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-38" value="&lt;b&gt;Sub-Claim C2:&lt;br&gt;&lt;/b&gt;IMS employs&amp;nbsp;two-factor&lt;br&gt;authentication schemes&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="453" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-39" target="pNyY80XMkmndgcX3XTr4-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-39" value="&lt;b&gt;Sub-Claim C8:&lt;br&gt;&lt;/b&gt;IMS employs user interaction&lt;br&gt;tracking biometric feature&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="462.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-40" value="&lt;b&gt;Context&lt;/b&gt;: &lt;b&gt;CT2&lt;/b&gt;&lt;br&gt;Biometric feature Captures password&lt;br&gt;entry speed and approximate location&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1406" y="448.75" width="210" height="89.25" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-42" value="&lt;b&gt;Sub-Claim C3:&lt;br&gt;&lt;/b&gt;IMS limits the number of repeated login attempts&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="453" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-43" value="&lt;b&gt;Sub-Claim C5:&lt;br&gt;&lt;/b&gt;IMS have&amp;nbsp;minimal&amp;nbsp;exploitable weaknesses&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="453" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-44" target="pNyY80XMkmndgcX3XTr4-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-44" target="pNyY80XMkmndgcX3XTr4-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-44" value="&lt;b&gt;Rebuttal RB2:&lt;br&gt;&lt;/b&gt;unless&amp;nbsp;Unforeseen Vulnerabilities exist" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="619" y="573" width="157.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-45" target="pNyY80XMkmndgcX3XTr4-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-45" value="&lt;b&gt;Sub-Claim C6:&lt;br&gt;&lt;/b&gt;Company deploys a&amp;nbsp;bug bounty program&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537" y="723" width="132.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-46" value="&lt;b&gt;Sub-Claim C7:&lt;br&gt;&lt;/b&gt;Company deploys a&amp;nbsp;bug bounty program&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="709.25" y="723" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-51" value="&lt;b&gt;Evidence E2:&lt;/b&gt;&lt;br&gt;Documentation demonstrating the results of bug bounty program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="528" y="863" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="588" y="1053" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-51" target="pNyY80XMkmndgcX3XTr4-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143.25" y="974" as="sourcePoint" />
+            <mxPoint x="193.25" y="924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-54" value="&lt;b&gt;Evidence E3:&lt;/b&gt;&lt;br&gt;Documentation demonstrating the results of Pen testing program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="702" y="863" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="762" y="1053" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-54" target="pNyY80XMkmndgcX3XTr4-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317.25" y="974" as="sourcePoint" />
+            <mxPoint x="367.25" y="924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-57" target="pNyY80XMkmndgcX3XTr4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-57" value="&lt;b&gt;Rebuttal RB3:&lt;br&gt;&lt;/b&gt;unless Biometric system is susceptible to manipulation" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="951" y="573" width="157.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-58" target="pNyY80XMkmndgcX3XTr4-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-58" value="&lt;b&gt;Sub-Claim C9:&lt;br&gt;&lt;/b&gt;Biometric system goes through rigorous testing and validation&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="703" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-59" value="&lt;b&gt;Evidence E4:&lt;/b&gt;&lt;br&gt;Documentation of testing scenarios and results for biometric system" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="955.1300000000001" y="853" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1015.1300000000001" y="1043" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-59" target="pNyY80XMkmndgcX3XTr4-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571.38" y="964" as="sourcePoint" />
+            <mxPoint x="621.38" y="914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-62" target="pNyY80XMkmndgcX3XTr4-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-62" value="&lt;b&gt;Rebuttal RB4:&lt;br&gt;&lt;/b&gt;unless Biometric system is susceptible to create false positives and false negatives" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1269.12" y="573" width="157.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-63" target="pNyY80XMkmndgcX3XTr4-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-63" value="&lt;b&gt;Sub-Claim C10:&lt;br&gt;&lt;/b&gt;Biometric system is continuously monitored and user feedback is reported&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1268.88" y="703" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-64" value="&lt;b&gt;Evidence E4:&lt;/b&gt;&lt;br&gt;Documentation of&amp;nbsp;User feedback and performance metrics" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1273.8700000000001" y="853" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1333.8700000000001" y="1043" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-64" target="pNyY80XMkmndgcX3XTr4-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="889.12" y="964" as="sourcePoint" />
+            <mxPoint x="939.12" y="914" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-39" target="pNyY80XMkmndgcX3XTr4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-39" target="pNyY80XMkmndgcX3XTr4-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=70.375;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-43" target="pNyY80XMkmndgcX3XTr4-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.547;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-46" target="pNyY80XMkmndgcX3XTr4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-83" value="&lt;b&gt;Context&lt;/b&gt;: &lt;b&gt;CT1&lt;/b&gt;&lt;br&gt;Comprehensive Security considerations for admin login&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=30;" vertex="1" parent="1">
+          <mxGeometry x="950" y="260" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-87" target="pNyY80XMkmndgcX3XTr4-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-87" value="&lt;b&gt;Rebuttal RB1:&lt;br&gt;&lt;/b&gt;Unless&amp;nbsp;mechanism for limiting login attempts is improperly configured&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="281.25" y="573" width="157.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-90" target="pNyY80XMkmndgcX3XTr4-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-90" value="&lt;b&gt;Sub-Claim C4:&lt;br&gt;&lt;/b&gt;Stringent configuration checks and continuous monitoring are in place &lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="723" width="147.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-91" value="&lt;b&gt;Evidence E1:&lt;/b&gt;&lt;br&gt;Documentation of security assessments and configuration audits" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="285" y="863" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-92" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1053" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-91" target="pNyY80XMkmndgcX3XTr4-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-93.75" y="974" as="sourcePoint" />
+            <mxPoint x="-43.75" y="924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNyY80XMkmndgcX3XTr4-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pNyY80XMkmndgcX3XTr4-42" target="pNyY80XMkmndgcX3XTr4-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
